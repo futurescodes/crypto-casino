@@ -1,14 +1,11 @@
 # crypto-casino
 
-Have you ever wanted to have your own Crypto Casino Dapp which is suitable for every website with iframe embed?  ✅
+Hello,
+this is fully ready casino dapp which works on evm chains. Dapp has 3 game lucky wheel, prediction and lottery games + fully editable smart contracts.
 
 With this script you will be able to create your own Lucky Spin, Lottery and Predictions games and control everything!
 
-Have you ever wanted to have your own Casino Dapp which is suitable for every website with iframe embed? 
-
-Isn't it time to create your own Casino Gaming System ? 
-
-With this script you will be able to create your own Lucky Spin, Lottery and Predictions games and control everything!
+Contact Link 👉 : [algovana.com]
 
 Features:
 
