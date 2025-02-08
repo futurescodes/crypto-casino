@@ -12,10 +12,15 @@ Contact 👉 : https://www.algovana.com
 Features:
 
 ✅ Fully Editable Typescript/HTML Design Source Code
+
 ✅ Fully Editable Crypto Lucky Spin, Lottery and Prediction Smart Contract Source Codes
+
 ✅ ETH, WETH, USDT support
+
 ✅ Win Rates can be editable
+
 ✅ Embed with subdomain for any website
+
 ✅ Fully Detailed PDF Document
  
 
@@ -23,8 +28,11 @@ Features:
 Requirements:
 
 📝 Platform: Typescript/HTML
+
 📝 Platform: Remix
+
 📝 Smart Contract Requirement on ETH or any EVM Chain
+
 📝 Installing for server
 
 
