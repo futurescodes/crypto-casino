@@ -22,6 +22,7 @@ Features:
 
 
 Requirements:
+
 📝 Platform: Typescript/HTML
 📝 Platform: Remix
 📝 Smart Contract Requirement on ETH or any EVM Chain
@@ -29,6 +30,7 @@ Requirements:
 
 
 Installation Steps:
+
 1-) Creating Design and Development
 
 2-) Creating Crypto Lucky Spin, Lottery and Prediction Smart Contract Source Code Developments
