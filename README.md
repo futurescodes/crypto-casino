@@ -5,7 +5,10 @@ this is fully ready casino dapp which works on evm chains. Dapp has 3 game lucky
 
 With this script you will be able to create your own Lucky Spin, Lottery and Predictions games and control everything!
 
+
 Contact 👉 : https://www.algovana.com
+
+
 Features:
 
 ✅ Fully Editable Typescript/HTML Design Source Code
@@ -23,6 +26,7 @@ Requirements:
 📝 Platform: Remix
 📝 Smart Contract Requirement on ETH or any EVM Chain
 📝 Installing for server
+
 
 
 Installation Steps:
